@@ -144,6 +144,11 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]", server: 104.17.30.62, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]", server: 172.64.92.167, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]", server: 104.24.165.145, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]", server: 104.25.242.22, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]", server: 104.17.221.61, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]", server: 104.19.205.180, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]", server: 172.64.235.124, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]", server: 104.24.132.108, port: 443, type: vless, uuid: 7708135f-3aff-4e1e-8bd3-d5592035a10a, tls: true, skip-cert-verify: false, servername: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -256,6 +261,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -364,6 +374,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -471,6 +486,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -579,6 +599,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -706,6 +731,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -819,6 +849,11 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.242.22:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.221.61:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.205.180:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.64.235.124:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.24.132.108:443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
