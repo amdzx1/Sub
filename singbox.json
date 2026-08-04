@@ -2226,6 +2226,236 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+      "server": "104.19.79.217",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+      "server": "104.21.74.226",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+      "server": "104.18.10.24",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+      "server": "104.21.109.7",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+      "server": "172.67.216.244",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+      "server": "104.18.34.226",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+      "server": "172.67.187.172",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+      "server": "104.17.30.62",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+      "server": "172.64.92.167",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]",
+      "server": "104.24.165.145",
+      "server_port": 443,
+      "uuid": "7708135f-3aff-4e1e-8bd3-d5592035a10a",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-mango-bridge-ab6e.flying-guan-pdjo.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -2326,7 +2556,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -2424,7 +2664,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -2525,7 +2775,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -2623,7 +2883,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -2749,7 +3019,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -2855,7 +3135,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -2956,7 +3246,17 @@
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.250.123:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.24.7.243:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.24.7.243:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.79.217:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.74.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.10.24:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.21.109.7:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.216.244:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.34.226:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.187.172:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.30.62:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.92.167:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.24.165.145:443 [VLESS]"
       ]
     },
     {
@@ -9482,7 +9782,107 @@
           "yvrieb1ln.td3wc.adobestats.io",
           "yz8yn0nr.td3wc.adobestats.io",
           "zpbpfbu6cpq.td3wc.adobestats.io",
-          "zxreowyzyof.td3wc.adobestats.io"
+          "zxreowyzyof.td3wc.adobestats.io",
+          "5llohiaf7b8b.61y77.adobestats.io",
+          "ubhkyiqkbp.xwk4b.adobestats.io",
+          "g7os4a6l.xwk4b.adobestats.io",
+          "y6e93e0muejm.nr94p.adobestats.io",
+          "1hac93w4ciq.nr94p.adobestats.io",
+          "01abhoynm.nr94p.adobestats.io",
+          "0ooc20j9s.nr94p.adobestats.io",
+          "1gby18snre.nr94p.adobestats.io",
+          "1oz5hcjo.nr94p.adobestats.io",
+          "290rf2vhmu.nr94p.adobestats.io",
+          "30q933u7wy9r.nr94p.adobestats.io",
+          "36ozobot30z.nr94p.adobestats.io",
+          "3kuc4wqjj.nr94p.adobestats.io",
+          "3o85zdgjsx.nr94p.adobestats.io",
+          "3ome07ychh.nr94p.adobestats.io",
+          "42ory1yh.nr94p.adobestats.io",
+          "4f7jz1g4.nr94p.adobestats.io",
+          "4iulukcwiegq.nr94p.adobestats.io",
+          "4mat7xp2xg5g.nr94p.adobestats.io",
+          "50kpnscqsj.nr94p.adobestats.io",
+          "5im6bd893.nr94p.adobestats.io",
+          "6il8a3gzd.nr94p.adobestats.io",
+          "7phwb6gtdcht.nr94p.adobestats.io",
+          "7vm0xgjs0.nr94p.adobestats.io",
+          "7xapbz5h2.nr94p.adobestats.io",
+          "8i07lr2rq.nr94p.adobestats.io",
+          "8iub6mx157.nr94p.adobestats.io",
+          "9cs6rc6276b.nr94p.adobestats.io",
+          "9o0jk46qf0.nr94p.adobestats.io",
+          "9wqj0iv0yf.nr94p.adobestats.io",
+          "aalb8k11in.nr94p.adobestats.io",
+          "adngtkuc6b5.nr94p.adobestats.io",
+          "aed8sg7yz.nr94p.adobestats.io",
+          "annjtcryg62b.nr94p.adobestats.io",
+          "by87c7ec.nr94p.adobestats.io",
+          "c4yb8tz6izw.nr94p.adobestats.io",
+          "c5tyuqjsd.nr94p.adobestats.io",
+          "chnhlmohuv.nr94p.adobestats.io",
+          "cvhlqpka3s.nr94p.adobestats.io",
+          "d12u58m1b.nr94p.adobestats.io",
+          "d335krk4.nr94p.adobestats.io",
+          "d9ed5hg1qkl.nr94p.adobestats.io",
+          "dhaxfwpz4bo0.nr94p.adobestats.io",
+          "dkz7ipdfyh.nr94p.adobestats.io",
+          "dpej8fcn25t8.nr94p.adobestats.io",
+          "dr8x5omtss.nr94p.adobestats.io",
+          "eckbuc2d721m.nr94p.adobestats.io",
+          "egpmu3m9ouie.nr94p.adobestats.io",
+          "fpqy3zb8.nr94p.adobestats.io",
+          "fpr3nxsr.nr94p.adobestats.io",
+          "fqwuxxkmqg.nr94p.adobestats.io",
+          "g8b5rgjre.nr94p.adobestats.io",
+          "gsbaswsx.nr94p.adobestats.io",
+          "hsemeynpq0zk.nr94p.adobestats.io",
+          "i86482u77.nr94p.adobestats.io",
+          "ieqa4ytluh1i.nr94p.adobestats.io",
+          "izktsj8t.nr94p.adobestats.io",
+          "jln11nvsqd.nr94p.adobestats.io",
+          "kyjvuf68in.nr94p.adobestats.io",
+          "l04lq23zzw6.nr94p.adobestats.io",
+          "lckizcs8o.nr94p.adobestats.io",
+          "lnqubgnso.nr94p.adobestats.io",
+          "lnrbgca6tkj.nr94p.adobestats.io",
+          "maxx5ddw4.nr94p.adobestats.io",
+          "oto8hz22l.nr94p.adobestats.io",
+          "ouf9hcf0jt.nr94p.adobestats.io",
+          "pt4vvg35di.nr94p.adobestats.io",
+          "q17pfsrw.nr94p.adobestats.io",
+          "q6tdlirko.nr94p.adobestats.io",
+          "qhs2v26k5.nr94p.adobestats.io",
+          "qqbp8gj8il.nr94p.adobestats.io",
+          "qsxuikk100.nr94p.adobestats.io",
+          "qw4i1um9em.nr94p.adobestats.io",
+          "rbwbrei60xwp.nr94p.adobestats.io",
+          "rpdipj5zz.nr94p.adobestats.io",
+          "rphyzefeaz.nr94p.adobestats.io",
+          "s9y2hfs9.nr94p.adobestats.io",
+          "sr5awkb8ue8q.nr94p.adobestats.io",
+          "st0bx76jdf4x.nr94p.adobestats.io",
+          "tlb4is2tf.nr94p.adobestats.io",
+          "u29gfjmwa0.nr94p.adobestats.io",
+          "u3qf7ehi4gp.nr94p.adobestats.io",
+          "ut5nd2k6aeo5.nr94p.adobestats.io",
+          "utxfcphncs8t.nr94p.adobestats.io",
+          "vcd913y3.nr94p.adobestats.io",
+          "w52otih99rc9.nr94p.adobestats.io",
+          "waqbx5t4lv.nr94p.adobestats.io",
+          "wdrm00gf1a.nr94p.adobestats.io",
+          "wi8m746hdbn.nr94p.adobestats.io",
+          "wntv058amun.nr94p.adobestats.io",
+          "wrrawpzaso.nr94p.adobestats.io",
+          "wuielahst2wf.nr94p.adobestats.io",
+          "x1gi903hr19.nr94p.adobestats.io",
+          "xr02q7ltcx6l.nr94p.adobestats.io",
+          "xu52f3tbxfz.nr94p.adobestats.io",
+          "xwu5z1zb09.nr94p.adobestats.io",
+          "yfm7nstt.nr94p.adobestats.io",
+          "ylvb9g7k5n.nr94p.adobestats.io",
+          "zcq3wsd5lnx.nr94p.adobestats.io",
+          "zkw1mdmx.nr94p.adobestats.io"
         ],
         "outbound": "🛑 全球拦截",
         "action": "route"
@@ -11324,7 +11724,6 @@
           "91.209.253.0/24",
           "92.53.188.0/22",
           "92.60.74.0/24",
-          "92.243.74.0/23",
           "93.114.64.0/23",
           "93.115.102.0/24",
           "94.140.0.0/24",
@@ -11363,7 +11762,6 @@
           "141.193.213.0/24",
           "147.78.140.0/24",
           "147.185.161.0/24",
-          "151.243.128.0/22",
           "154.51.129.0/24",
           "154.51.160.0/24",
           "154.62.129.0/24",
@@ -11524,24 +11922,18 @@
           "5.226.183.0/24",
           "5.252.81.0/24",
           "8.6.112.0/24",
-          "8.9.231.0/24",
-          "8.20.122.0/24",
           "8.20.125.0/24",
           "8.21.9.0/24",
           "8.21.10.0/24",
-          "8.21.13.0/24",
           "8.21.111.0/24",
-          "8.23.139.0/24",
           "8.24.87.0/24",
           "8.25.97.0/24",
-          "8.26.182.0/24",
           "8.27.64.0/24",
           "8.27.66.0/23",
           "8.27.68.0/24",
           "8.29.109.0/24",
           "8.29.228.0/24",
           "8.29.230.0/23",
-          "8.31.2.0/24",
           "8.31.160.0/23",
           "8.34.70.0/23",
           "8.34.146.0/24",
@@ -11550,7 +11942,8 @@
           "8.39.125.0/24",
           "8.39.204.0/24",
           "8.39.214.0/24",
-          "8.44.60.0/23",
+          "8.44.2.0/24",
+          "8.44.61.0/24",
           "8.47.13.0/24",
           "8.47.69.0/24",
           "23.131.204.0/24",
@@ -11574,13 +11967,15 @@
           "45.157.17.0/24",
           "45.192.223.0/24",
           "45.192.224.0/24",
+          "45.195.14.0/24",
           "45.195.153.0/24",
           "45.196.29.0/24",
           "45.198.114.0/24",
           "45.198.116.0/24",
+          "45.198.139.0/24",
           "45.199.183.0/24",
           "45.199.188.0/24",
-          "45.250.152.0/22",
+          "46.38.152.0/24",
           "49.238.236.0/22",
           "51.194.144.0/22",
           "51.241.128.0/23",
@@ -11609,8 +12004,10 @@
           "80.240.93.0/24",
           "82.21.82.0/24",
           "82.22.16.0/24",
+          "82.25.20.0/24",
           "82.26.156.0/24",
           "82.139.216.0/23",
+          "87.232.75.0/24",
           "88.216.69.0/24",
           "89.46.251.0/24",
           "89.106.90.0/24",
@@ -11621,6 +12018,7 @@
           "91.234.202.0/24",
           "92.44.1.0/24",
           "94.156.10.0/24",
+          "94.177.26.0/24",
           "96.43.100.0/23",
           "98.98.234.0/24",
           "103.21.244.0/24",
@@ -11635,7 +12033,6 @@
           "103.186.74.0/24",
           "103.198.92.0/24",
           "103.215.22.0/24",
-          "103.219.64.0/22",
           "104.16.0.0/14",
           "104.20.0.0/18",
           "104.21.0.0/17",
@@ -11678,6 +12075,8 @@
           "104.22.131.0/24",
           "104.22.132.0/23",
           "104.22.134.0/24",
+          "104.22.136.0/22",
+          "104.22.140.0/23",
           "104.22.148.0/23",
           "104.22.150.0/24",
           "104.22.155.0/24",
@@ -11691,6 +12090,7 @@
           "104.22.176.0/22",
           "104.22.180.0/23",
           "104.22.186.0/23",
+          "104.22.190.0/24",
           "104.23.160.0/20",
           "104.23.176.0/23",
           "104.23.178.0/24",
@@ -11703,11 +12103,7 @@
           "104.23.204.0/24",
           "104.23.206.0/23",
           "104.23.208.0/20",
-          "104.23.224.0/20",
-          "104.23.240.0/21",
-          "104.23.248.0/24",
-          "104.23.250.0/23",
-          "104.23.252.0/22",
+          "104.23.224.0/19",
           "104.24.0.0/18",
           "104.24.64.0/19",
           "104.24.128.0/17",
@@ -11720,15 +12116,10 @@
           "104.29.6.0/24",
           "104.29.9.0/24",
           "104.29.45.0/24",
-          "104.29.61.0/24",
-          "104.29.62.0/23",
-          "104.29.70.0/24",
+          "104.29.63.0/24",
           "104.29.73.0/24",
           "104.29.77.0/24",
-          "104.29.78.0/23",
           "104.29.92.0/23",
-          "104.29.105.0/24",
-          "104.29.106.0/24",
           "104.29.111.0/24",
           "104.29.114.0/24",
           "104.29.121.0/24",
@@ -11745,10 +12136,7 @@
           "104.31.16.0/22",
           "104.31.20.0/24",
           "104.156.176.0/23",
-          "104.233.58.0/24",
           "104.234.133.0/24",
-          "104.239.29.0/24",
-          "104.239.89.0/24",
           "104.243.192.0/24",
           "104.244.236.0/23",
           "104.249.18.0/24",
@@ -11806,6 +12194,7 @@
           "145.224.255.0/24",
           "146.19.108.0/24",
           "147.189.42.0/23",
+          "148.224.60.0/24",
           "148.227.167.0/24",
           "150.48.128.0/18",
           "151.243.133.0/24",
@@ -11815,6 +12204,8 @@
           "152.114.128.0/18",
           "154.46.20.0/24",
           "154.81.141.0/24",
+          "154.84.164.0/24",
+          "154.86.118.0/24",
           "154.193.133.0/24",
           "154.193.184.0/24",
           "154.200.89.0/24",
@@ -11840,23 +12231,20 @@
           "162.158.16.0/21",
           "162.158.24.0/23",
           "162.158.26.0/24",
-          "162.158.28.0/22",
+          "162.158.28.0/23",
+          "162.158.30.0/24",
           "162.158.32.0/23",
           "162.158.35.0/24",
           "162.158.36.0/22",
           "162.158.40.0/22",
           "162.158.44.0/24",
-          "162.158.46.0/24",
-          "162.158.48.0/23",
-          "162.158.51.0/24",
-          "162.158.52.0/22",
+          "162.158.48.0/21",
           "162.158.56.0/24",
           "162.158.61.0/24",
           "162.158.62.0/23",
           "162.158.73.0/24",
           "162.158.74.0/23",
           "162.158.76.0/22",
-          "162.158.80.0/24",
           "162.158.84.0/22",
           "162.158.88.0/21",
           "162.158.97.0/24",
@@ -11867,7 +12255,8 @@
           "162.158.129.0/24",
           "162.158.130.0/23",
           "162.158.132.0/22",
-          "162.158.136.0/22",
+          "162.158.137.0/24",
+          "162.158.138.0/23",
           "162.158.140.0/23",
           "162.158.142.0/24",
           "162.158.144.0/23",
@@ -11887,17 +12276,16 @@
           "162.158.207.0/24",
           "162.158.208.0/20",
           "162.158.224.0/22",
-          "162.158.228.0/23",
+          "162.158.228.0/24",
           "162.158.230.0/24",
           "162.158.232.0/21",
           "162.158.240.0/21",
           "162.158.250.0/23",
-          "162.158.254.0/23",
+          "162.158.254.0/24",
           "162.159.0.0/18",
           "162.159.64.0/20",
           "162.159.81.0/24",
-          "162.159.90.0/23",
-          "162.159.92.0/22",
+          "162.159.88.0/21",
           "162.159.96.0/22",
           "162.159.100.0/23",
           "162.159.102.0/24",
@@ -11978,7 +12366,7 @@
           "172.68.0.0/24",
           "172.68.2.0/23",
           "172.68.4.0/24",
-          "172.68.6.0/23",
+          "172.68.6.0/24",
           "172.68.8.0/23",
           "172.68.10.0/24",
           "172.68.12.0/22",
@@ -12011,15 +12399,16 @@
           "172.68.108.0/22",
           "172.68.113.0/24",
           "172.68.114.0/23",
-          "172.68.116.0/22",
-          "172.68.122.0/23",
+          "172.68.117.0/24",
+          "172.68.118.0/23",
+          "172.68.123.0/24",
           "172.68.126.0/23",
           "172.68.129.0/24",
           "172.68.130.0/24",
           "172.68.133.0/24",
           "172.68.134.0/23",
           "172.68.138.0/23",
-          "172.68.142.0/23",
+          "172.68.142.0/24",
           "172.68.144.0/24",
           "172.68.146.0/23",
           "172.68.148.0/22",
@@ -12031,7 +12420,6 @@
           "172.68.176.0/21",
           "172.68.184.0/22",
           "172.68.188.0/24",
-          "172.68.191.0/24",
           "172.68.192.0/22",
           "172.68.196.0/24",
           "172.68.198.0/23",
@@ -12069,7 +12457,6 @@
           "172.69.46.0/24",
           "172.69.48.0/23",
           "172.69.50.0/24",
-          "172.69.53.0/24",
           "172.69.56.0/22",
           "172.69.60.0/24",
           "172.69.62.0/23",
@@ -12102,7 +12489,7 @@
           "172.69.144.0/23",
           "172.69.147.0/24",
           "172.69.148.0/22",
-          "172.69.152.0/22",
+          "172.69.152.0/24",
           "172.69.156.0/24",
           "172.69.158.0/24",
           "172.69.162.0/24",
@@ -12158,7 +12545,8 @@
           "172.70.149.0/24",
           "172.70.152.0/24",
           "172.70.154.0/23",
-          "172.70.156.0/22",
+          "172.70.156.0/23",
+          "172.70.159.0/24",
           "172.70.160.0/22",
           "172.70.172.0/22",
           "172.70.176.0/21",
@@ -12279,8 +12667,7 @@
           "193.135.44.0/24",
           "193.202.90.0/24",
           "193.202.112.0/24",
-          "194.34.64.0/23",
-          "194.34.66.0/24",
+          "194.34.64.0/22",
           "194.34.70.0/23",
           "194.34.76.0/24",
           "194.34.78.0/23",
@@ -12313,16 +12700,20 @@
           "198.41.238.0/23",
           "198.41.240.0/23",
           "198.41.242.0/24",
+          "198.148.174.0/24",
           "198.217.251.0/24",
           "198.252.206.0/24",
           "199.27.128.0/21",
           "199.65.62.0/24",
           "199.68.16.0/22",
+          "200.69.28.0/24",
           "202.27.69.0/24",
           "202.49.114.0/24",
           "203.5.33.0/24",
           "203.15.65.0/24",
-          "203.168.192.0/20",
+          "203.117.8.0/24",
+          "203.117.53.0/24",
+          "203.120.52.0/24",
           "204.4.235.0/24",
           "204.69.207.0/24",
           "204.153.16.0/24",
@@ -12332,6 +12723,7 @@
           "207.57.150.0/23",
           "207.89.22.0/23",
           "207.207.209.0/24",
+          "207.241.180.0/24",
           "208.88.71.0/24",
           "208.184.1.0/24",
           "208.185.162.0/24",
@@ -12341,6 +12733,7 @@
           "209.55.246.0/23",
           "209.55.253.0/24",
           "209.55.254.0/24",
+          "209.172.5.0/24",
           "209.236.210.0/24",
           "210.1.232.0/23",
           "211.188.26.0/23",
@@ -12355,6 +12748,7 @@
           "217.180.16.0/23",
           "218.33.92.0/22",
           "222.167.32.0/22",
+          "222.167.230.0/24",
           "103.21.246.0/23",
           "104.22.240.0/20",
           "104.23.0.0/19",
